@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-partners-and-portals-flutter",
+  "capabilityKey": "planned:sap:partners-and-portals",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_partners_and_portals_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/partners-and-portals.md",
+  "presentationPlan": "projects/sap/flutter/partners-and-portals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
